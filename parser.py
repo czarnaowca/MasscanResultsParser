@@ -31,7 +31,7 @@ if __name__ in "__main__":
     print("Contact: czarna.owca.mail@gmail.com")
     
     if len(sys.argv) != 2:
-        print("Json file path is missing!")
+        print("\nJson file path is missing!")
         exit(0)
 
     parse_results(sys.argv[1])
