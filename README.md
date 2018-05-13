@@ -4,7 +4,7 @@ Reads masscan json results file and outputs the port/protocol and status per hos
 
 # Usage example
 
-python parser.py masscan_json_results_file_path
+python3 parser.py masscan_json_results_file_path
 
 # Output example
 
