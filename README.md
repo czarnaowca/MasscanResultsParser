@@ -17,4 +17,4 @@ Results:
         port: 8080/tcp is open
         port: 9989/tcp is open
     192.168.0.123
-	port: 3389/tcp is open
+    	port: 3389/tcp is open
